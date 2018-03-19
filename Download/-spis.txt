@@ -6,4 +6,4 @@
 #0040 [se.vlx 16-10-2009] [https://kojacek.wordpress.com/2015/12/20/symbole-zmienne/]
 #0043 [arrow.fas 04-01-2018] [https://kojacek.wordpress.com/2015/12/22/rysowanie-strzalki]
 #0045 [tss.zip (TextStyleStd.ini TextStyleStd.lsp) 16-01-2016] [https://kojacek.wordpress.com/2016/01/16/standardy-style-tekstu/]
-#0062	[menugroup.lsp 28-08-2016] [https://kojacek.wordpress.com/2016/08/29/zarzadzanie-paskami-narzedzi/]
+#0062 [menugroup.lsp 28-08-2016] [https://kojacek.wordpress.com/2016/08/29/zarzadzanie-paskami-narzedzi/]
