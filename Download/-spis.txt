@@ -9,3 +9,4 @@
 #0062 [menugroup.lsp 28-08-2016] [https://kojacek.wordpress.com/2016/08/29/zarzadzanie-paskami-narzedzi/]
 #???? [xrec.zip 22-08-2009] [https://kojacek.wordpress.com/2018/03/07/wlasny-xrecord/]
 #???? [pol_at.vlx 01-10-2009] 
+#???? [se.vlx 16-10-2009] [https://kojacek.wordpress.com/2015/12/20/symbole-zmienne/]
